@@ -79,7 +79,7 @@ $ git commit -m 'First commit'
 * 커밋 메시지는 지금 기록하는 이력을 충분히 잘 나타낼 수 있도록 작성한다.
 * `git log` 명령어를 통해 지금까지 기록된 커밋들을 확인할 수 있다.
 
-## 기타 명령어
+![Screen Shot 2020-12-29 at 오후 2.50](md-images/Screen%20Shot%202020-12-29%20at%20%EC%98%A4%ED%9B%84%202.50.png)기타 명령어
 
 ### 1. status
 
